@@ -9,10 +9,6 @@ select, input, button, textarea {
   font-family: 'Poppins', sans-serif;
 }
 
-table.layout {
-  background: red !important;
-}
-
 #menu {
   background: black;
 }
